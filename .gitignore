@@ -1,0 +1,15 @@
+# Visual Studio temporary files
+.vs/
+*.vsidx
+
+# Binaries and outputs
+Debug/
+Release/
+x64/
+*.exe
+*.dll
+*.obj
+
+# Solution and Project User Options
+*.suo
+*.user
