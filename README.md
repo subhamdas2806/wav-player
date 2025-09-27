@@ -5,7 +5,7 @@ first repo energy so don’t expect magic
 It plays a WAV file. Windows/VS only. Path is fixed. No cap.
 
 START??
-Clone: git clone [URL] then cd wav-player
+Clone: git clone [https://github.com/subhamdas2806/wav-player.git] then cd wav-player
 
 Open: (need visual studio ofc )Double-click wav_player.sln.
 
